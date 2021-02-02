@@ -44,4 +44,4 @@ We also share our skill-sets that ensuring that customer-facing businesses have 
 
 NOTE: Top Languages does not indicate our skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doteightplus)](https://github-readme-stats.vercel.app/api/top-langs/?username=DotEightPlus)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DotEightPlus)](https://github-readme-stats.vercel.app/api/top-langs/?username=DotEightPlus)
