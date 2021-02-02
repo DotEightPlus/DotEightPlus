@@ -39,9 +39,3 @@ We also share our skill-sets that ensuring that customer-facing businesses have 
 <a href="https://wa.me/2348103171902">
   <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
 </a>
-
-
-
-NOTE: Top Languages does not indicate our skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DotEightPlus)](https://github-readme-stats.vercel.app/api/top-langs/?username=DotEightPlus)
