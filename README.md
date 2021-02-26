@@ -39,3 +39,7 @@ We also share our skill-sets that ensuring that customer-facing businesses have 
 <a href="https://wa.me/2348103171902">
   <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
 </a>
+
+![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/797?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grtnxhor)](https://github-readme-stats.vercel.app/api/top-langs/?username=Grtnxhor)
